@@ -1,3 +1,3 @@
 const funcTwo = ()=>{
-    return"Hola, que pasa?"
+    return"Hi how are u?"
 }
