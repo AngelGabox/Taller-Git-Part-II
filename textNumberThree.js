@@ -1,3 +1,4 @@
-const funcTwo = ()=>{
-    return"Hi how are u?"
-}
+(()=>{
+    const chelas = "como son chelas"
+    return chelas
+})()

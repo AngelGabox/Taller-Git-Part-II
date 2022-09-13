@@ -1,3 +1,3 @@
-const funcThree = ()=>{
-    return"Como son cervezas"
+const funcTwo = ()=>{
+    return"Hi how are u?"
 }
